@@ -10,6 +10,7 @@ const Header = () => {
             <li><Link href="/dynamic">Dynamic</Link></li>
             <li><Link href="/hybrid">Hybrid</Link></li>
             <li><Link href="/isr/posts">Isr</Link></li>
+            <li><Link href="/rsc">RSC</Link></li>
             </ul> 
         </div>
         
